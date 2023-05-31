@@ -6,11 +6,11 @@ CauseFormer: Interpretable Anomaly Detection with Stepwise Attention for Cloud S
 
 ### Datasets
 
-MMS and MBD: https://github.com/QAZASDEDC/TopoMAD
+MMS ("mms.npy") and MBD ("mbd.npy") : https://github.com/QAZASDEDC/TopoMAD
 
-SMD-1: https://github.com/smallcowbaby/OmniAnomaly
+SMD-1 ("smd1.npy"): https://github.com/smallcowbaby/OmniAnomaly
 
-EMOS: https://github.com/zhongguoxiang/DySAD
+EMOS ("emos_x.npy""emos_y.npy"): https://github.com/zhongguoxiang/DySAD
 
 ### Getting Started
 
